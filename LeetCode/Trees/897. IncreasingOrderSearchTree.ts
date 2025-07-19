@@ -10,7 +10,6 @@ function increasingBST(root: TreeNode | null): TreeNode | null {
         inorder(root.right)
     }
     inorder(root)
-    console.log(result)
 
     let newRoot = new TreeNode(result.shift())
     let curr = newRoot
