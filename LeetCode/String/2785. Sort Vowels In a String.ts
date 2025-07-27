@@ -1,4 +1,4 @@
-// Difficulty - EASY
+// Difficulty - MEDIUM
 /*
 function sortVowels(s: string): string {
   const vowelSet: Set<string> = new Set(['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']);  

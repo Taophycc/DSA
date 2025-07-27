@@ -1,4 +1,4 @@
-// Difficulty - MEDIUM 
+// Difficulty - MEDIUM
 /*
 function diagonalSort(mat: number[][]): number[][] {
      function helper(mat, i, j, len_row, len_col){
@@ -29,3 +29,4 @@ function diagonalSort(mat: number[][]): number[][] {
         return mat
 };
 */
+
