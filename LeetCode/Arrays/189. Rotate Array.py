@@ -36,6 +36,10 @@
 # # An outer loop and a `cnt` counter are used to handle cases where multiple (disjoint) cycles
 # # are needed to move all the elements.
 # #
+# # **Complexity:**
+# # - Time: O(n), where n is the number of elements. Each element is visited and moved exactly once.
+# # - Space: O(1), as the rotation is performed in-place.
+# #
 # # **Detailed Walkthrough:** `nums = [1, 2, 3, 4, 5, 6]`, `k = 2`
 # #
 # # **Cycle 1 (starts at i=0):**
