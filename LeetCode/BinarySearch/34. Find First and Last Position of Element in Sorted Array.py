@@ -11,6 +11,7 @@
 #                 last = i
 #         return [first, last]
 
+# Optimal solution
 # def searchRange(nums, target):
 #     def findFirst(nums, target):
 #       low, high = 0, len(nums) - 1
