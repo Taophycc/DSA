@@ -1,18 +1,18 @@
 # Difficulty - EASY
 
-def searchInsert(nums, target):
-    low = 0
-    high = len(nums) - 1
-    ans = len(nums)
+# def searchInsert(nums, target):
+#     low = 0
+#     high = len(nums) - 1
+#     ans = len(nums)
 
-    while low <= high:
-        mid = (low + high) // 2
-        if nums[mid] >= target:
-            ans = mid
-            high = mid -1
-        else:
-            low = mid + 1
-    return ans
+#     while low <= high:
+#         mid = (low + high) // 2
+#         if nums[mid] >= target:
+#             ans = mid
+#             high = mid -1
+#         else:
+#             low = mid + 1
+#     return ans
 
 # Intuition
 # The problem asks for the index of a target value in a sorted array. If the target is not found, it asks for the index where it would be if it were inserted in order.

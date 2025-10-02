@@ -1,34 +1,34 @@
 # DIfficulty - EASY
 
 # Iterative method
-def binarySearch(nums, target):
-    low = 0
-    high = len(nums) - 1
+# def binarySearch(nums, target):
+#     low = 0
+#     high = len(nums) - 1
 
-    while low <= high:
-        mid = (high+low) // 2
+#     while low <= high:
+#         mid = (high+low) // 2
 
-        if nums[mid] == target:
-            return mid
-        elif nums[mid] > target:
-            high = mid - 1
-        else:
-            low = mid + 1
-    return -1
+#         if nums[mid] == target:
+#             return mid
+#         elif nums[mid] > target:
+#             high = mid - 1
+#         else:
+#             low = mid + 1
+#     return -1
 
 # Recursive method
-def binarySearchRecursive(nums, low, high, target):
-    if low > high:
-        return -1
+# def binarySearchRecursive(nums, low, high, target):
+#     if low > high:
+#         return -1
 
-    mid = (high+low) // 2
+#     mid = (high+low) // 2
 
-    if nums[mid] == target:
-        return mid
-    elif nums[mid] > target:
-        return binarySearchRecursive(nums, low, mid - 1, target)
-    else:
-        return binarySearchRecursive(nums, mid + 1, high, target)
+#     if nums[mid] == target:
+#         return mid
+#     elif nums[mid] > target:
+#         return binarySearchRecursive(nums, low, mid - 1, target)
+#     else:
+#         return binarySearchRecursive(nums, mid + 1, high, target)
 
 
 # Intuition

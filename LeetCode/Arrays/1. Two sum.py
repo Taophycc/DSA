@@ -2,28 +2,28 @@
 # Difficulty - EASY
 
 # Brute force 
-def twoSum_brute_force( nums, target):
-    n = len(nums)
+# def twoSum_brute_force( nums, target):
+#     n = len(nums)
 
-    for i in range(n-1):
-        for j in range(i+1, n):
-            if nums[i] + nums[j] == target:
-                return [i,j]
-    return        
+#     for i in range(n-1):
+#         for j in range(i+1, n):
+#             if nums[i] + nums[j] == target:
+#                 return [i,j]
+#     return        
 
 
 # Optimal
-def twoSum_optimal(nums, target):
-    num_map = {}
+# def twoSum_optimal(nums, target):
+#     num_map = {}
 
-    for i, num in enumerate(nums):
-        complement = target - num
+#     for i, num in enumerate(nums):
+#         complement = target - num
 
-        if complement in num_map:
-            return [num_map[complement],i]
+#         if complement in num_map:
+#             return [num_map[complement],i]
     
-        num_map[num] = i 
-    return
+#         num_map[num] = i 
+#     return
 
 # #############
 # Brute Force
