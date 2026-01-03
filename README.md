@@ -15,8 +15,21 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Taophycc/DSA/tree/master/0036-valid-sudoku) |
+| [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Taophycc/DSA/tree/master/0036-valid-sudoku) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
