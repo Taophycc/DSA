@@ -8,6 +8,7 @@ Code from my leetcode and hackerrank solutions.
 | [0015-3sum](https://github.com/Taophycc/DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Taophycc/DSA/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Taophycc/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taophycc/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Taophycc/DSA/tree/master/0238-product-of-array-except-self) |
 | [1390-four-divisors](https://github.com/Taophycc/DSA/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/Taophycc/DSA/tree/master/1975-maximum-matrix-sum) |
@@ -30,6 +31,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Taophycc/DSA/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taophycc/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -91,4 +93,8 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Taophycc/DSA/tree/master/0015-3sum) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taophycc/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
