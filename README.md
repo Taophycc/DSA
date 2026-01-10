@@ -5,6 +5,7 @@ Code from my leetcode and hackerrank solutions.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Taophycc/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Taophycc/DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Taophycc/DSA/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Taophycc/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -31,6 +32,7 @@ Code from my leetcode and hackerrank solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Taophycc/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Taophycc/DSA/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taophycc/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
@@ -53,6 +55,7 @@ Code from my leetcode and hackerrank solutions.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Taophycc/DSA/tree/master/0011-container-with-most-water) |
 | [1975-maximum-matrix-sum](https://github.com/Taophycc/DSA/tree/master/1975-maximum-matrix-sum) |
 ## Stack
 |  |
