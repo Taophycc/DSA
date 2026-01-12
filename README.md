@@ -11,6 +11,7 @@ Code from my leetcode and hackerrank solutions.
 | [0128-longest-consecutive-sequence](https://github.com/Taophycc/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taophycc/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Taophycc/DSA/tree/master/0238-product-of-array-except-self) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Taophycc/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Taophycc/DSA/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/Taophycc/DSA/tree/master/1975-maximum-matrix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Taophycc/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -55,6 +56,7 @@ Code from my leetcode and hackerrank solutions.
 ## Math
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Taophycc/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Taophycc/DSA/tree/master/1390-four-divisors) |
 ## Greedy
 |  |
@@ -117,4 +119,8 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Taophycc/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Taophycc/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
