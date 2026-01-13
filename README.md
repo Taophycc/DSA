@@ -10,6 +10,7 @@ Code from my leetcode and hackerrank solutions.
 | [0036-valid-sudoku](https://github.com/Taophycc/DSA/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Taophycc/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taophycc/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Taophycc/DSA/tree/master/0238-product-of-array-except-self) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Taophycc/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Taophycc/DSA/tree/master/1390-four-divisors) |
@@ -24,6 +25,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0036-valid-sudoku](https://github.com/Taophycc/DSA/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Taophycc/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taophycc/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Taophycc/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -107,6 +109,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Taophycc/DSA/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,9 +121,14 @@ Code from my leetcode and hackerrank solutions.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Taophycc/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Geometry
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Taophycc/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
