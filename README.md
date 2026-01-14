@@ -8,6 +8,7 @@ Code from my leetcode and hackerrank solutions.
 | [0011-container-with-most-water](https://github.com/Taophycc/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Taophycc/DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Taophycc/DSA/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Taophycc/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taophycc/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
@@ -40,6 +41,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Taophycc/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Taophycc/DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taophycc/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
 ## String
@@ -68,6 +70,7 @@ Code from my leetcode and hackerrank solutions.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Taophycc/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Taophycc/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
@@ -131,4 +134,12 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
