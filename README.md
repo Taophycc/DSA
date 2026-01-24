@@ -19,6 +19,7 @@ Code from my leetcode and hackerrank solutions.
 | [1390-four-divisors](https://github.com/Taophycc/DSA/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/Taophycc/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2090-k-radius-subarray-averages](https://github.com/Taophycc/DSA/tree/master/2090-k-radius-subarray-averages) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Taophycc/DSA/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Taophycc/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Taophycc/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Prefix Sum
@@ -51,6 +52,7 @@ Code from my leetcode and hackerrank solutions.
 | [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taophycc/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Taophycc/DSA/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## String
 |  |
 | ------- |
