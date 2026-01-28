@@ -31,4 +31,4 @@ class Solution:
                 matches -= 1
             l += 1
         return matches == 26
-        
+        # confusing solution. redoing it again 
