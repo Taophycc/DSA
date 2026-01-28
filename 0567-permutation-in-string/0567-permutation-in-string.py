@@ -3,7 +3,7 @@ class Solution:
         """
         Check if s2 contains a permutation of s1 using sliding window approach.
         
-        Time Complexity: O(n) where n is length of s2
+        Time Complexity: O(len(s1) + len(s2)) for initial setup and sliding window
         Space Complexity: O(1) - arrays of fixed size 26
         
         Algorithm:
