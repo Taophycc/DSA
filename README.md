@@ -23,6 +23,7 @@ Code from my leetcode and hackerrank solutions.
 | [2090-k-radius-subarray-averages](https://github.com/Taophycc/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Taophycc/DSA/tree/master/2191-sort-the-jumbled-numbers) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Taophycc/DSA/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Taophycc/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Taophycc/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Taophycc/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Prefix Sum
@@ -138,6 +139,7 @@ Code from my leetcode and hackerrank solutions.
 | [0015-3sum](https://github.com/Taophycc/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Taophycc/DSA/tree/master/2191-sort-the-jumbled-numbers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Taophycc/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,4 +171,8 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Taophycc/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
