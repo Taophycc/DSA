@@ -26,6 +26,7 @@ Code from my leetcode and hackerrank solutions.
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Taophycc/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Taophycc/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Taophycc/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3637-trionic-array-i](https://github.com/Taophycc/DSA/tree/master/3637-trionic-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
