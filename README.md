@@ -27,6 +27,7 @@ Code from my leetcode and hackerrank solutions.
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Taophycc/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Taophycc/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/Taophycc/DSA/tree/master/3379-transformed-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Taophycc/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Taophycc/DSA/tree/master/3637-trionic-array-i) |
 ## Prefix Sum
 |  |
@@ -80,6 +81,7 @@ Code from my leetcode and hackerrank solutions.
 | [0424-longest-repeating-character-replacement](https://github.com/Taophycc/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
 | [2090-k-radius-subarray-averages](https://github.com/Taophycc/DSA/tree/master/2090-k-radius-subarray-averages) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Taophycc/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Union Find
 |  |
 | ------- |
@@ -142,6 +144,7 @@ Code from my leetcode and hackerrank solutions.
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Taophycc/DSA/tree/master/2191-sort-the-jumbled-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Taophycc/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Taophycc/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
 | ------- |
