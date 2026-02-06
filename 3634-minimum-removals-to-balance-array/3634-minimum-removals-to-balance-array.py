@@ -1,7 +1,6 @@
 class Solution:
     def minRemoval(self, nums: List[int], k: int) -> int:
         n = len(nums)
-        cnt = 0
         nums.sort()
         max_kept = 0
         r = 0
