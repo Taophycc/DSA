@@ -29,11 +29,13 @@ Code from my leetcode and hackerrank solutions.
 | [3379-transformed-array](https://github.com/Taophycc/DSA/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Taophycc/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Taophycc/DSA/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Taophycc/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Taophycc/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Taophycc/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/Taophycc/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +52,7 @@ Code from my leetcode and hackerrank solutions.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taophycc/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Taophycc/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Taophycc/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3719-longest-balanced-subarray-i](https://github.com/Taophycc/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Matrix
 |  |
 | ------- |
@@ -175,6 +178,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/Taophycc/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Taophycc/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,4 +200,8 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Taophycc/DSA/tree/master/1382-balance-a-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Taophycc/DSA/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
