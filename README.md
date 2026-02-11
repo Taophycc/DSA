@@ -204,4 +204,8 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Taophycc/DSA/tree/master/3719-longest-balanced-subarray-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Taophycc/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
