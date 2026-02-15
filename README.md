@@ -74,6 +74,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Taophycc/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Taophycc/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Taophycc/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
@@ -97,6 +98,7 @@ Code from my leetcode and hackerrank solutions.
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Taophycc/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Taophycc/DSA/tree/master/1390-four-divisors) |
 ## Greedy
@@ -167,6 +169,7 @@ Code from my leetcode and hackerrank solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Taophycc/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Taophycc/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Counting
@@ -202,6 +205,7 @@ Code from my leetcode and hackerrank solutions.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/Taophycc/DSA/tree/master/3379-transformed-array) |
 ## Binary Search Tree
 |  |
