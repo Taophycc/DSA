@@ -46,6 +46,7 @@ Code from my leetcode and hackerrank solutions.
 | [0076-minimum-window-substring](https://github.com/Taophycc/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Taophycc/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Taophycc/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Taophycc/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Taophycc/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
@@ -76,6 +77,7 @@ Code from my leetcode and hackerrank solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Taophycc/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Taophycc/DSA/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/Taophycc/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Taophycc/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
 | [0804-unique-morse-code-words](https://github.com/Taophycc/DSA/tree/master/0804-unique-morse-code-words) |
@@ -176,6 +178,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Taophycc/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Taophycc/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Taophycc/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Geometry
@@ -221,4 +224,8 @@ Code from my leetcode and hackerrank solutions.
 | [0175-combine-two-tables](https://github.com/Taophycc/DSA/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Taophycc/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Taophycc/DSA/tree/master/0182-duplicate-emails) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Taophycc/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
