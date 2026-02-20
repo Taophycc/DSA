@@ -70,6 +70,7 @@ Code from my leetcode and hackerrank solutions.
 | [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taophycc/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/Taophycc/DSA/tree/master/0696-count-binary-substrings) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Taophycc/DSA/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## String
 |  |
@@ -80,6 +81,7 @@ Code from my leetcode and hackerrank solutions.
 | [0387-first-unique-character-in-a-string](https://github.com/Taophycc/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Taophycc/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/Taophycc/DSA/tree/master/0696-count-binary-substrings) |
 | [0804-unique-morse-code-words](https://github.com/Taophycc/DSA/tree/master/0804-unique-morse-code-words) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Taophycc/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Taophycc/DSA/tree/master/3713-longest-balanced-substring-i) |
