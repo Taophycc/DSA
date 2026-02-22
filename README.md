@@ -174,6 +174,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
+| [0868-binary-gap](https://github.com/Taophycc/DSA/tree/master/0868-binary-gap) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Taophycc/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Taophycc/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Counting
