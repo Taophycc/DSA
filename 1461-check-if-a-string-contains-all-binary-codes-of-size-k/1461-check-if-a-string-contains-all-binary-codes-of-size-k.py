@@ -2,16 +2,11 @@ class Solution:
     def hasAllCodes(self, s: str, k: int) -> bool:
         seen = set()
         len_s = len(s)
+        # 1 << k same as 2**k
         for i in range(len_s - k+1):
-            if len(seen) == 2**k:
-                break
+            seen.add(s[i:i+k])
 
-            temp = int(s[i:i+k], 2)
-            if temp not in seen:
-                seen.add(temp)
+            if len(seen) == 1 << k:
+                return True
 
-        for j in range(2**k):
-            if j not in seen:
-                return False
-        
-        return True
+        return False
