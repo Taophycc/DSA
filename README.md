@@ -178,6 +178,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/0191-number-of-1-bits) |
 | [0868-binary-gap](https://github.com/Taophycc/DSA/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Taophycc/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -199,6 +200,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Taophycc/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Taophycc/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
