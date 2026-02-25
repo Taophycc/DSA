@@ -18,6 +18,7 @@ Code from my leetcode and hackerrank solutions.
 | [0560-subarray-sum-equals-k](https://github.com/Taophycc/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0804-unique-morse-code-words](https://github.com/Taophycc/DSA/tree/master/0804-unique-morse-code-words) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Taophycc/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Taophycc/DSA/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/Taophycc/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2090-k-radius-subarray-averages](https://github.com/Taophycc/DSA/tree/master/2090-k-radius-subarray-averages) |
@@ -165,6 +166,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0015-3sum](https://github.com/Taophycc/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Taophycc/DSA/tree/master/2191-sort-the-jumbled-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Taophycc/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Taophycc/DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -177,6 +179,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
 | [0868-binary-gap](https://github.com/Taophycc/DSA/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Taophycc/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Taophycc/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Taophycc/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -185,6 +188,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Taophycc/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Taophycc/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Taophycc/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Geometry
