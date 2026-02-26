@@ -85,6 +85,7 @@ Code from my leetcode and hackerrank solutions.
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Taophycc/DSA/tree/master/0696-count-binary-substrings) |
 | [0804-unique-morse-code-words](https://github.com/Taophycc/DSA/tree/master/0804-unique-morse-code-words) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Taophycc/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Taophycc/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Taophycc/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Taophycc/DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -181,6 +182,7 @@ Code from my leetcode and hackerrank solutions.
 | [0191-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/0191-number-of-1-bits) |
 | [0868-binary-gap](https://github.com/Taophycc/DSA/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Taophycc/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Taophycc/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Taophycc/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Taophycc/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -221,6 +223,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Taophycc/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3379-transformed-array](https://github.com/Taophycc/DSA/tree/master/3379-transformed-array) |
 ## Binary Search Tree
 |  |
