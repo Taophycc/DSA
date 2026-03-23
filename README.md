@@ -36,6 +36,7 @@ Code from my leetcode and hackerrank solutions.
 | [3379-transformed-array](https://github.com/Taophycc/DSA/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Taophycc/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Taophycc/DSA/tree/master/3637-trionic-array-i) |
+| [3668-restore-finishing-order](https://github.com/Taophycc/DSA/tree/master/3668-restore-finishing-order) |
 | [3719-longest-balanced-subarray-i](https://github.com/Taophycc/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
@@ -64,6 +65,7 @@ Code from my leetcode and hackerrank solutions.
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Taophycc/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Taophycc/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Taophycc/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3668-restore-finishing-order](https://github.com/Taophycc/DSA/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/Taophycc/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Taophycc/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Taophycc/DSA/tree/master/3719-longest-balanced-subarray-i) |
