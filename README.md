@@ -99,6 +99,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Taophycc/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Taophycc/DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Taophycc/DSA/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/Taophycc/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -146,6 +147,7 @@ Code from my leetcode and hackerrank solutions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Taophycc/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Taophycc/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Taophycc/DSA/tree/master/0145-binary-tree-postorder-traversal) |
