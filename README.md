@@ -13,6 +13,7 @@ Code from my leetcode and hackerrank solutions.
 | [0048-rotate-image](https://github.com/Taophycc/DSA/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Taophycc/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Taophycc/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Taophycc/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taophycc/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Taophycc/DSA/tree/master/0238-product-of-array-except-self) |
@@ -134,6 +135,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0048-rotate-image](https://github.com/Taophycc/DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Taophycc/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Taophycc/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Taophycc/DSA/tree/master/1390-four-divisors) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Taophycc/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -151,6 +153,7 @@ Code from my leetcode and hackerrank solutions.
 | [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Taophycc/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Taophycc/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Taophycc/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Taophycc/DSA/tree/master/0155-min-stack) |
 ## Tree
 |  |
