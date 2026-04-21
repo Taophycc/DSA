@@ -9,6 +9,6 @@ class Solution:
         return max(r, (n-1) - l)
 
         # if first and last element are different colors then that is the max distance
-        # if not try to get the max distance from colors[i] and colors[n-1] respectively
+        # if not try to get the max distance from colors[0] and colors[n-1] respectively
         # r = max distance from the colors[n-1] to that point (r)
         # l is the max distance from colors[0] to that point (l)
