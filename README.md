@@ -353,4 +353,12 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0155-min-stack](https://github.com/Taophycc/DSA/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/Taophycc/DSA/tree/master/0981-time-based-key-value-store) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Taophycc/DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Taophycc/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
