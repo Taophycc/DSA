@@ -356,9 +356,11 @@ Code from my leetcode and hackerrank solutions.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Taophycc/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Taophycc/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Taophycc/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Taophycc/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
