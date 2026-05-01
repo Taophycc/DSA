@@ -24,6 +24,7 @@ Code from my leetcode and hackerrank solutions.
 | [0238-product-of-array-except-self](https://github.com/Taophycc/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Taophycc/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Taophycc/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Taophycc/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Taophycc/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Taophycc/DSA/tree/master/0739-daily-temperatures) |
@@ -75,6 +76,7 @@ Code from my leetcode and hackerrank solutions.
 | [0076-minimum-window-substring](https://github.com/Taophycc/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Taophycc/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Taophycc/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Taophycc/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Taophycc/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -161,6 +163,7 @@ Code from my leetcode and hackerrank solutions.
 | [0048-rotate-image](https://github.com/Taophycc/DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Taophycc/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Taophycc/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Taophycc/DSA/tree/master/1390-four-divisors) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Taophycc/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -231,6 +234,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0015-3sum](https://github.com/Taophycc/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
 | [0853-car-fleet](https://github.com/Taophycc/DSA/tree/master/0853-car-fleet) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Taophycc/DSA/tree/master/2191-sort-the-jumbled-numbers) |
@@ -246,6 +250,7 @@ Code from my leetcode and hackerrank solutions.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Taophycc/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taophycc/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Taophycc/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Taophycc/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Taophycc/DSA/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Taophycc/DSA/tree/master/0981-time-based-key-value-store) |
@@ -257,6 +262,7 @@ Code from my leetcode and hackerrank solutions.
 | [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Taophycc/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
 | [0868-binary-gap](https://github.com/Taophycc/DSA/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Taophycc/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
