@@ -131,6 +131,7 @@ Code from my leetcode and hackerrank solutions.
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Taophycc/DSA/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Taophycc/DSA/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/Taophycc/DSA/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Taophycc/DSA/tree/master/0804-unique-morse-code-words) |
 | [0981-time-based-key-value-store](https://github.com/Taophycc/DSA/tree/master/0981-time-based-key-value-store) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Taophycc/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -371,4 +372,8 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Taophycc/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Taophycc/DSA/tree/master/0206-reverse-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Taophycc/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
