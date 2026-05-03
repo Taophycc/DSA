@@ -164,6 +164,7 @@ Code from my leetcode and hackerrank solutions.
 | [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Taophycc/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
+| [0788-rotated-digits](https://github.com/Taophycc/DSA/tree/master/0788-rotated-digits) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Taophycc/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Taophycc/DSA/tree/master/1390-four-divisors) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Taophycc/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -298,6 +299,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Taophycc/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0788-rotated-digits](https://github.com/Taophycc/DSA/tree/master/0788-rotated-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
