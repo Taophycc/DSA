@@ -113,6 +113,7 @@ Code from my leetcode and hackerrank solutions.
 | [0011-container-with-most-water](https://github.com/Taophycc/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Taophycc/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Taophycc/DSA/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taophycc/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Taophycc/DSA/tree/master/0696-count-binary-substrings) |
@@ -366,6 +367,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Taophycc/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Taophycc/DSA/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Taophycc/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
