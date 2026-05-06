@@ -8,11 +8,11 @@ class Solution:
         if not head:
             return head
             
-        curr = head
+        tail = head
         length = 1
 
-        while curr.next:
-            curr = curr.next
+        while tail.next:
+            tail = tail.next
             length += 1
 
         k = k % length
@@ -20,12 +20,12 @@ class Solution:
             return head
         
         steps_to_tail = length - k - 1
-        newTail = head
-        for _ in range(steps_to_tail):
-            newTail = newTail.next
+        curr = head
+        for _ in range(length - k - 1):
+            curr = curr.next
 
-        newHead = newTail.next
-        newTail.next = None
-        curr.next = head
+        newHead = curr.next
+        curr.next = None
+        tail.next = head
         return newHead
 
