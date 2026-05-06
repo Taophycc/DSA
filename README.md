@@ -378,4 +378,8 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Taophycc/DSA/tree/master/0796-rotate-string) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Taophycc/DSA/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
