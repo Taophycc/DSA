@@ -116,6 +116,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Taophycc/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Taophycc/DSA/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Taophycc/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Taophycc/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Taophycc/DSA/tree/master/0141-linked-list-cycle) |
@@ -375,6 +376,7 @@ Code from my leetcode and hackerrank solutions.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Taophycc/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Taophycc/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Taophycc/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Taophycc/DSA/tree/master/0141-linked-list-cycle) |
