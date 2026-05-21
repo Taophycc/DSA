@@ -44,6 +44,7 @@ Code from my leetcode and hackerrank solutions.
 | [2191-sort-the-jumbled-numbers](https://github.com/Taophycc/DSA/tree/master/2191-sort-the-jumbled-numbers) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Taophycc/DSA/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Taophycc/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Taophycc/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Taophycc/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/Taophycc/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Taophycc/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -88,6 +89,7 @@ Code from my leetcode and hackerrank solutions.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taophycc/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0981-time-based-key-value-store](https://github.com/Taophycc/DSA/tree/master/0981-time-based-key-value-store) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Taophycc/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2540-minimum-common-value](https://github.com/Taophycc/DSA/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Taophycc/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Taophycc/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Taophycc/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -127,6 +129,7 @@ Code from my leetcode and hackerrank solutions.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Taophycc/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Taophycc/DSA/tree/master/1861-rotating-the-box) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Taophycc/DSA/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2540-minimum-common-value](https://github.com/Taophycc/DSA/tree/master/2540-minimum-common-value) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Taophycc/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## String
 |  |
@@ -267,6 +270,7 @@ Code from my leetcode and hackerrank solutions.
 | [0875-koko-eating-bananas](https://github.com/Taophycc/DSA/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Taophycc/DSA/tree/master/0981-time-based-key-value-store) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Taophycc/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Taophycc/DSA/tree/master/2540-minimum-common-value) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Taophycc/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Bit Manipulation
 |  |
