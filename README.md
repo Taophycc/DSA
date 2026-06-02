@@ -231,6 +231,7 @@ Code from my leetcode and hackerrank solutions.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Taophycc/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Taophycc/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Taophycc/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Taophycc/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -250,6 +251,7 @@ Code from my leetcode and hackerrank solutions.
 | [0207-course-schedule](https://github.com/Taophycc/DSA/tree/master/0207-course-schedule) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taophycc/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Taophycc/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Taophycc/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sorting
 |  |
 | ------- |
@@ -409,8 +411,13 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0207-course-schedule](https://github.com/Taophycc/DSA/tree/master/0207-course-schedule) |
 | [1791-find-center-of-star-graph](https://github.com/Taophycc/DSA/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Taophycc/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Taophycc/DSA/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Taophycc/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
