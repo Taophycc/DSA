@@ -55,6 +55,7 @@ Code from my leetcode and hackerrank solutions.
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Taophycc/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Taophycc/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/Taophycc/DSA/tree/master/3379-transformed-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Taophycc/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Taophycc/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Taophycc/DSA/tree/master/3637-trionic-array-i) |
 | [3668-restore-finishing-order](https://github.com/Taophycc/DSA/tree/master/3668-restore-finishing-order) |
@@ -131,6 +132,7 @@ Code from my leetcode and hackerrank solutions.
 | [1861-rotating-the-box](https://github.com/Taophycc/DSA/tree/master/1861-rotating-the-box) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Taophycc/DSA/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2540-minimum-common-value](https://github.com/Taophycc/DSA/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Taophycc/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Taophycc/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## String
 |  |
@@ -191,6 +193,7 @@ Code from my leetcode and hackerrank solutions.
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Taophycc/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Taophycc/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Taophycc/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Taophycc/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
@@ -258,6 +261,7 @@ Code from my leetcode and hackerrank solutions.
 | [2191-sort-the-jumbled-numbers](https://github.com/Taophycc/DSA/tree/master/2191-sort-the-jumbled-numbers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Taophycc/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Taophycc/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Taophycc/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Taophycc/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
@@ -274,6 +278,7 @@ Code from my leetcode and hackerrank solutions.
 | [0981-time-based-key-value-store](https://github.com/Taophycc/DSA/tree/master/0981-time-based-key-value-store) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Taophycc/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Taophycc/DSA/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Taophycc/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Taophycc/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Bit Manipulation
 |  |
