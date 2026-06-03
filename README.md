@@ -226,6 +226,7 @@ Code from my leetcode and hackerrank solutions.
 | [0110-balanced-binary-tree](https://github.com/Taophycc/DSA/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Taophycc/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Taophycc/DSA/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Taophycc/DSA/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Taophycc/DSA/tree/master/0563-binary-tree-tilt) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taophycc/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Taophycc/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -249,6 +250,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Taophycc/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0207-course-schedule](https://github.com/Taophycc/DSA/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Taophycc/DSA/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taophycc/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Taophycc/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Taophycc/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -410,6 +412,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Taophycc/DSA/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Taophycc/DSA/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/Taophycc/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Taophycc/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -419,5 +422,6 @@ Code from my leetcode and hackerrank solutions.
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Taophycc/DSA/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Taophycc/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
