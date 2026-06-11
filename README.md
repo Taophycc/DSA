@@ -32,6 +32,7 @@ Code from my leetcode and hackerrank solutions.
 | [0733-flood-fill](https://github.com/Taophycc/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Taophycc/DSA/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/Taophycc/DSA/tree/master/0804-unique-morse-code-words) |
+| [0827-making-a-large-island](https://github.com/Taophycc/DSA/tree/master/0827-making-a-large-island) |
 | [0853-car-fleet](https://github.com/Taophycc/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Taophycc/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Taophycc/DSA/tree/master/0994-rotting-oranges) |
@@ -116,6 +117,7 @@ Code from my leetcode and hackerrank solutions.
 | [0240-search-a-2d-matrix-ii](https://github.com/Taophycc/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Taophycc/DSA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Taophycc/DSA/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/Taophycc/DSA/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Taophycc/DSA/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Taophycc/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/Taophycc/DSA/tree/master/1861-rotating-the-box) |
@@ -241,6 +243,7 @@ Code from my leetcode and hackerrank solutions.
 | [0547-number-of-provinces](https://github.com/Taophycc/DSA/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Taophycc/DSA/tree/master/0563-binary-tree-tilt) |
 | [0733-flood-fill](https://github.com/Taophycc/DSA/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/Taophycc/DSA/tree/master/0827-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taophycc/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Taophycc/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Taophycc/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -267,6 +270,7 @@ Code from my leetcode and hackerrank solutions.
 | [0463-island-perimeter](https://github.com/Taophycc/DSA/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Taophycc/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Taophycc/DSA/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/Taophycc/DSA/tree/master/0827-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taophycc/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/Taophycc/DSA/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Taophycc/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -441,5 +445,6 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0200-number-of-islands](https://github.com/Taophycc/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Taophycc/DSA/tree/master/0547-number-of-provinces) |
+| [0827-making-a-large-island](https://github.com/Taophycc/DSA/tree/master/0827-making-a-large-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Taophycc/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
