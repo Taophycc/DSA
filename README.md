@@ -27,6 +27,7 @@ Code from my leetcode and hackerrank solutions.
 | [0240-search-a-2d-matrix-ii](https://github.com/Taophycc/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/Taophycc/DSA/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Taophycc/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Taophycc/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Taophycc/DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Taophycc/DSA/tree/master/0733-flood-fill) |
@@ -116,6 +117,7 @@ Code from my leetcode and hackerrank solutions.
 | [0200-number-of-islands](https://github.com/Taophycc/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Taophycc/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Taophycc/DSA/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Taophycc/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Taophycc/DSA/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/Taophycc/DSA/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Taophycc/DSA/tree/master/0994-rotting-oranges) |
@@ -270,6 +272,7 @@ Code from my leetcode and hackerrank solutions.
 | [0200-number-of-islands](https://github.com/Taophycc/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Taophycc/DSA/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/Taophycc/DSA/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Taophycc/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Taophycc/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Taophycc/DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Taophycc/DSA/tree/master/0733-flood-fill) |
@@ -351,6 +354,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Taophycc/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/Taophycc/DSA/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/Taophycc/DSA/tree/master/0788-rotated-digits) |
 ## Monotonic Stack
 |  |
