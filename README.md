@@ -38,6 +38,7 @@ Code from my leetcode and hackerrank solutions.
 | [0853-car-fleet](https://github.com/Taophycc/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Taophycc/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Taophycc/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Taophycc/DSA/tree/master/1020-number-of-enclaves) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Taophycc/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Taophycc/DSA/tree/master/1390-four-divisors) |
@@ -123,6 +124,7 @@ Code from my leetcode and hackerrank solutions.
 | [0733-flood-fill](https://github.com/Taophycc/DSA/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/Taophycc/DSA/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Taophycc/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Taophycc/DSA/tree/master/1020-number-of-enclaves) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Taophycc/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/Taophycc/DSA/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Taophycc/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -252,6 +254,7 @@ Code from my leetcode and hackerrank solutions.
 | [0827-making-a-large-island](https://github.com/Taophycc/DSA/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Taophycc/DSA/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taophycc/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1020-number-of-enclaves](https://github.com/Taophycc/DSA/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Taophycc/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Taophycc/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Taophycc/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -284,6 +287,7 @@ Code from my leetcode and hackerrank solutions.
 | [0841-keys-and-rooms](https://github.com/Taophycc/DSA/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taophycc/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/Taophycc/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Taophycc/DSA/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Taophycc/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Taophycc/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sorting
@@ -462,5 +466,6 @@ Code from my leetcode and hackerrank solutions.
 | [0547-number-of-provinces](https://github.com/Taophycc/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Taophycc/DSA/tree/master/0684-redundant-connection) |
 | [0827-making-a-large-island](https://github.com/Taophycc/DSA/tree/master/0827-making-a-large-island) |
+| [1020-number-of-enclaves](https://github.com/Taophycc/DSA/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Taophycc/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
