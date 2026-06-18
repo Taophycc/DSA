@@ -71,6 +71,7 @@ Code from my leetcode and hackerrank solutions.
 | [3719-longest-balanced-subarray-i](https://github.com/Taophycc/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Taophycc/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Taophycc/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Taophycc/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Code from my leetcode and hackerrank solutions.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Taophycc/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Taophycc/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Taophycc/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Taophycc/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -454,6 +456,7 @@ Code from my leetcode and hackerrank solutions.
 | [0841-keys-and-rooms](https://github.com/Taophycc/DSA/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/Taophycc/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Taophycc/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Taophycc/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
 | ------- |
