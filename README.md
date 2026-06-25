@@ -162,6 +162,7 @@ Code from my leetcode and hackerrank solutions.
 | [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Taophycc/DSA/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/Taophycc/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Taophycc/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Taophycc/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Taophycc/DSA/tree/master/0657-robot-return-to-origin) |
@@ -225,6 +226,7 @@ Code from my leetcode and hackerrank solutions.
 | [0145-binary-tree-postorder-traversal](https://github.com/Taophycc/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Taophycc/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Taophycc/DSA/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Taophycc/DSA/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Taophycc/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Taophycc/DSA/tree/master/0853-car-fleet) |
 ## Tree
@@ -445,6 +447,7 @@ Code from my leetcode and hackerrank solutions.
 | [0021-merge-two-sorted-lists](https://github.com/Taophycc/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Taophycc/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Taophycc/DSA/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Taophycc/DSA/tree/master/0394-decode-string) |
 ## String Matching
 |  |
 | ------- |
