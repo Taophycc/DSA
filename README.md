@@ -12,6 +12,7 @@ Code from my leetcode and hackerrank solutions.
 | [0033-search-in-rotated-sorted-array](https://github.com/Taophycc/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Taophycc/DSA/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Taophycc/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Taophycc/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Taophycc/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Taophycc/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -491,4 +492,5 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Taophycc/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Taophycc/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
