@@ -1,34 +1,26 @@
-from collections import deque
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        sortedOrder = []
-        if numCourses <= 0:
-            return
-        # intialize
-        inDegree = {i:0 for i in range(numCourses)}
         graph = {i:[] for i in range(numCourses)}
+        indegree = [0] * numCourses
 
-        # populate graph
-        for prereq in prerequisites:
-            parent, child = prereq[0], prereq[1]
-            graph[parent].append(child)
-            inDegree[child] += 1
+        for u, v in prerequisites:
+            graph[u].append(v)
+            indegree[v] += 1
+
+        queue = deque()
+
+        for node in range(numCourses):
+            if indegree[node] == 0:
+                queue.append(node)
         
-        # find all sources
-        sources = deque()
-        for key in inDegree:
-            if inDegree[key] == 0:
-                sources.append(key)
+        topo_order = []
+        while queue:
+            curr = queue.popleft()
+            topo_order.append(curr)
 
-        # topo sort
-        while sources:
-            vertex = sources.popleft()
-            sortedOrder.append(vertex)
-            for child in graph[vertex]:
-                inDegree[child] -= 1
-                if inDegree[child] == 0:
-                    sources.append(child)
-                    
-        if len(sortedOrder) != numCourses:
-            return False
-        return True
+            for ne in graph[curr]:
+                indegree[ne] -= 1
+                if indegree[ne] == 0:
+                    queue.append(ne)
+        
+        return len(topo_order) == numCourses
