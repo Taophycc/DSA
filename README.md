@@ -13,6 +13,7 @@ Code from my leetcode and hackerrank solutions.
 | [0036-valid-sudoku](https://github.com/Taophycc/DSA/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Taophycc/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Taophycc/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Taophycc/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Taophycc/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Taophycc/DSA/tree/master/0078-subsets) |
@@ -308,6 +309,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Taophycc/DSA/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Taophycc/DSA/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
 | [0853-car-fleet](https://github.com/Taophycc/DSA/tree/master/0853-car-fleet) |
@@ -495,6 +497,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Taophycc/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Taophycc/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Taophycc/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Taophycc/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Taophycc/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
