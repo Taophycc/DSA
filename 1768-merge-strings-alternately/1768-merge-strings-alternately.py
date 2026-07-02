@@ -10,4 +10,7 @@ class Solution:
             l += 1
             r += 1
 
-        return "".join(merged) + word1[l:] + word2[l:]
+        merged.append(word1[l:])
+        merged.append(word2[r:])
+
+        return "".join(merged)
