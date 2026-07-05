@@ -45,6 +45,7 @@ Code from my leetcode and hackerrank solutions.
 | [1266-minimum-time-visiting-all-points](https://github.com/Taophycc/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Taophycc/DSA/tree/master/1390-four-divisors) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Taophycc/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Taophycc/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Taophycc/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Taophycc/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
