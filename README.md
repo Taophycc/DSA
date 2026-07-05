@@ -157,6 +157,7 @@ Code from my leetcode and hackerrank solutions.
 | [0151-reverse-words-in-a-string](https://github.com/Taophycc/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taophycc/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Taophycc/DSA/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Taophycc/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Taophycc/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Taophycc/DSA/tree/master/0696-count-binary-substrings) |
@@ -176,6 +177,7 @@ Code from my leetcode and hackerrank solutions.
 | [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Taophycc/DSA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Taophycc/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Taophycc/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Taophycc/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Taophycc/DSA/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Taophycc/DSA/tree/master/0415-add-strings) |
