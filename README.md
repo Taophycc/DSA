@@ -43,6 +43,7 @@ Code from my leetcode and hackerrank solutions.
 | [0875-koko-eating-bananas](https://github.com/Taophycc/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Taophycc/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Taophycc/DSA/tree/master/1020-number-of-enclaves) |
+| [1169-invalid-transactions](https://github.com/Taophycc/DSA/tree/master/1169-invalid-transactions) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Taophycc/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Taophycc/DSA/tree/master/1390-four-divisors) |
@@ -109,6 +110,7 @@ Code from my leetcode and hackerrank solutions.
 | [0804-unique-morse-code-words](https://github.com/Taophycc/DSA/tree/master/0804-unique-morse-code-words) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taophycc/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0981-time-based-key-value-store](https://github.com/Taophycc/DSA/tree/master/0981-time-based-key-value-store) |
+| [1169-invalid-transactions](https://github.com/Taophycc/DSA/tree/master/1169-invalid-transactions) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Taophycc/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2540-minimum-common-value](https://github.com/Taophycc/DSA/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Taophycc/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -190,6 +192,7 @@ Code from my leetcode and hackerrank solutions.
 | [0804-unique-morse-code-words](https://github.com/Taophycc/DSA/tree/master/0804-unique-morse-code-words) |
 | [0981-time-based-key-value-store](https://github.com/Taophycc/DSA/tree/master/0981-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Taophycc/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1169-invalid-transactions](https://github.com/Taophycc/DSA/tree/master/1169-invalid-transactions) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Taophycc/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Taophycc/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Taophycc/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -333,6 +336,7 @@ Code from my leetcode and hackerrank solutions.
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
 | [0853-car-fleet](https://github.com/Taophycc/DSA/tree/master/0853-car-fleet) |
+| [1169-invalid-transactions](https://github.com/Taophycc/DSA/tree/master/1169-invalid-transactions) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Taophycc/DSA/tree/master/2191-sort-the-jumbled-numbers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Taophycc/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
