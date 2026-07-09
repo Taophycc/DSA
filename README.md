@@ -34,6 +34,7 @@ Code from my leetcode and hackerrank solutions.
 | [0463-island-perimeter](https://github.com/Taophycc/DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Taophycc/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Taophycc/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Taophycc/DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Taophycc/DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Taophycc/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Taophycc/DSA/tree/master/0739-daily-temperatures) |
@@ -239,6 +240,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Taophycc/DSA/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Taophycc/DSA/tree/master/0605-can-place-flowers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Taophycc/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Taophycc/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Taophycc/DSA/tree/master/1975-maximum-matrix-sum) |
