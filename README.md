@@ -31,6 +31,7 @@ Code from my leetcode and hackerrank solutions.
 | [0240-search-a-2d-matrix-ii](https://github.com/Taophycc/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Taophycc/DSA/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Taophycc/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0463-island-perimeter](https://github.com/Taophycc/DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Taophycc/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Taophycc/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -240,6 +241,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Taophycc/DSA/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/Taophycc/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Taophycc/DSA/tree/master/0605-can-place-flowers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Taophycc/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Taophycc/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
