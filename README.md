@@ -17,6 +17,7 @@ Code from my leetcode and hackerrank solutions.
 | [0048-rotate-image](https://github.com/Taophycc/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Taophycc/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Taophycc/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Taophycc/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Taophycc/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Taophycc/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Taophycc/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -132,6 +133,7 @@ Code from my leetcode and hackerrank solutions.
 | [0036-valid-sudoku](https://github.com/Taophycc/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Taophycc/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Taophycc/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Taophycc/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Taophycc/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Taophycc/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Taophycc/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -185,6 +187,7 @@ Code from my leetcode and hackerrank solutions.
 | [0020-valid-parentheses](https://github.com/Taophycc/DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Taophycc/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Taophycc/DSA/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Taophycc/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Taophycc/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Taophycc/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -283,6 +286,7 @@ Code from my leetcode and hackerrank solutions.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Taophycc/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Taophycc/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Taophycc/DSA/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Taophycc/DSA/tree/master/0130-surrounded-regions) |
@@ -543,6 +547,7 @@ Code from my leetcode and hackerrank solutions.
 | [0047-permutations-ii](https://github.com/Taophycc/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Taophycc/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Taophycc/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Taophycc/DSA/tree/master/0079-word-search) |
 ## Shortest Path
 |  |
 | ------- |
