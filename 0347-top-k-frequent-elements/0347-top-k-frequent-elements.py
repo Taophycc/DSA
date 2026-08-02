@@ -1,14 +1,9 @@
+from collections import Counter
 import heapq
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         n = len(nums)
-        store = {}
-
-        for num in nums:
-            if num in store:
-                store[num] += 1
-            else:
-                store[num] = 1
+        store = Counter(nums)
         
         min_heap = []
         for n, freq in store.items():
