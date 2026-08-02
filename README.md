@@ -33,6 +33,7 @@ Code from my leetcode and hackerrank solutions.
 | [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Taophycc/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Taophycc/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Taophycc/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/Taophycc/DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Taophycc/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Taophycc/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -109,6 +110,7 @@ Code from my leetcode and hackerrank solutions.
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Taophycc/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Taophycc/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Taophycc/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Taophycc/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Taophycc/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -352,6 +354,7 @@ Code from my leetcode and hackerrank solutions.
 | [0047-permutations-ii](https://github.com/Taophycc/DSA/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Taophycc/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/Taophycc/DSA/tree/master/0853-car-fleet) |
 | [1169-invalid-transactions](https://github.com/Taophycc/DSA/tree/master/1169-invalid-transactions) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -396,6 +399,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Taophycc/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Taophycc/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/Taophycc/DSA/tree/master/2833-furthest-point-from-origin) |
@@ -413,6 +417,7 @@ Code from my leetcode and hackerrank solutions.
 | [0190-reverse-bits](https://github.com/Taophycc/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Taophycc/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Taophycc/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/Taophycc/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Taophycc/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
@@ -477,6 +482,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Taophycc/DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Taophycc/DSA/tree/master/0347-top-k-frequent-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Taophycc/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Queue
 |  |
@@ -561,4 +567,12 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Taophycc/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Taophycc/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Taophycc/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Taophycc/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
