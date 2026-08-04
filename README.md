@@ -358,6 +358,7 @@ Code from my leetcode and hackerrank solutions.
 | [0853-car-fleet](https://github.com/Taophycc/DSA/tree/master/0853-car-fleet) |
 | [1169-invalid-transactions](https://github.com/Taophycc/DSA/tree/master/1169-invalid-transactions) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1387-sort-integers-by-the-power-value](https://github.com/Taophycc/DSA/tree/master/1387-sort-integers-by-the-power-value) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Taophycc/DSA/tree/master/2191-sort-the-jumbled-numbers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Taophycc/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Taophycc/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -428,6 +429,7 @@ Code from my leetcode and hackerrank solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Taophycc/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/Taophycc/DSA/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/Taophycc/DSA/tree/master/0788-rotated-digits) |
+| [1387-sort-integers-by-the-power-value](https://github.com/Taophycc/DSA/tree/master/1387-sort-integers-by-the-power-value) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -575,4 +577,8 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Taophycc/DSA/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [1387-sort-integers-by-the-power-value](https://github.com/Taophycc/DSA/tree/master/1387-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
