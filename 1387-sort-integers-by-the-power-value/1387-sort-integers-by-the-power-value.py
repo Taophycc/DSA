@@ -4,17 +4,17 @@ class Solution:
 
         def get_power(num):
             curr = num
-            curr_steps = 0
+            steps = 0
 
             while curr not in cache:
                 if curr % 2 == 0:
                     curr //= 2
-                    curr_steps += 1
+                    steps += 1
                 elif curr % 2 == 1:
                     curr = 3 * curr + 1
-                    curr_steps += 1
+                    steps += 1
 
-            cache[num] = curr_steps + cache[curr]
+            cache[num] = steps + cache[curr]
 
             return cache[num]
 
