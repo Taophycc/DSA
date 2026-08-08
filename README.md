@@ -15,6 +15,7 @@ Code from my leetcode and hackerrank solutions.
 | [0046-permutations](https://github.com/Taophycc/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Taophycc/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Taophycc/DSA/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/Taophycc/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Taophycc/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Taophycc/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Taophycc/DSA/tree/master/0079-word-search) |
@@ -355,6 +356,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0015-3sum](https://github.com/Taophycc/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Taophycc/DSA/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Taophycc/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Taophycc/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -587,4 +589,8 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [1387-sort-integers-by-the-power-value](https://github.com/Taophycc/DSA/tree/master/1387-sort-integers-by-the-power-value) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Taophycc/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
