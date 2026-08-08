@@ -34,6 +34,7 @@ Code from my leetcode and hackerrank solutions.
 | [0283-move-zeroes](https://github.com/Taophycc/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Taophycc/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Taophycc/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Taophycc/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Taophycc/DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Taophycc/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Taophycc/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -254,6 +255,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Taophycc/DSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Taophycc/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Taophycc/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Taophycc/DSA/tree/master/0605-can-place-flowers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Taophycc/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Taophycc/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -356,6 +358,7 @@ Code from my leetcode and hackerrank solutions.
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Taophycc/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Taophycc/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0853-car-fleet](https://github.com/Taophycc/DSA/tree/master/0853-car-fleet) |
 | [1169-invalid-transactions](https://github.com/Taophycc/DSA/tree/master/1169-invalid-transactions) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -428,6 +431,7 @@ Code from my leetcode and hackerrank solutions.
 | [0005-longest-palindromic-substring](https://github.com/Taophycc/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Taophycc/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/Taophycc/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Taophycc/DSA/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/Taophycc/DSA/tree/master/0788-rotated-digits) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Taophycc/DSA/tree/master/1387-sort-integers-by-the-power-value) |
