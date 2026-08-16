@@ -53,6 +53,7 @@ Code from my leetcode and hackerrank solutions.
 | [1266-minimum-time-visiting-all-points](https://github.com/Taophycc/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Taophycc/DSA/tree/master/1390-four-divisors) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Taophycc/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Taophycc/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Taophycc/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Taophycc/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -93,6 +94,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Taophycc/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Taophycc/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Taophycc/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/Taophycc/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/Taophycc/DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Taophycc/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -234,6 +236,7 @@ Code from my leetcode and hackerrank solutions.
 | [0239-sliding-window-maximum](https://github.com/Taophycc/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Taophycc/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Taophycc/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2090-k-radius-subarray-averages](https://github.com/Taophycc/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Taophycc/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Union Find
