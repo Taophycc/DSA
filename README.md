@@ -17,6 +17,7 @@ Code from my leetcode and hackerrank solutions.
 | [0048-rotate-image](https://github.com/Taophycc/DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Taophycc/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Taophycc/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Taophycc/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Taophycc/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Taophycc/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Taophycc/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -170,6 +171,7 @@ Code from my leetcode and hackerrank solutions.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Taophycc/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Taophycc/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Taophycc/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Taophycc/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Taophycc/DSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Taophycc/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -365,6 +367,7 @@ Code from my leetcode and hackerrank solutions.
 | [0015-3sum](https://github.com/Taophycc/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Taophycc/DSA/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Taophycc/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Taophycc/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Taophycc/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -602,4 +605,9 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Taophycc/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Taophycc/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Taophycc/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
