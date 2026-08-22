@@ -221,6 +221,7 @@ Code from my leetcode and hackerrank solutions.
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Taophycc/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Taophycc/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Taophycc/DSA/tree/master/1768-merge-strings-alternately) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Taophycc/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Taophycc/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Taophycc/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Taophycc/DSA/tree/master/2833-furthest-point-from-origin) |
@@ -449,6 +450,7 @@ Code from my leetcode and hackerrank solutions.
 | [0542-01-matrix](https://github.com/Taophycc/DSA/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/Taophycc/DSA/tree/master/0788-rotated-digits) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Taophycc/DSA/tree/master/1387-sort-integers-by-the-power-value) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Taophycc/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -469,6 +471,7 @@ Code from my leetcode and hackerrank solutions.
 | [0415-add-strings](https://github.com/Taophycc/DSA/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Taophycc/DSA/tree/master/0657-robot-return-to-origin) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Taophycc/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Taophycc/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Taophycc/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Taophycc/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Taophycc/DSA/tree/master/3379-transformed-array) |
