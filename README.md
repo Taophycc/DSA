@@ -627,4 +627,8 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Taophycc/DSA/tree/master/0322-coin-change) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Taophycc/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
