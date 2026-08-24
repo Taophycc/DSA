@@ -58,6 +58,7 @@ Code from my leetcode and hackerrank solutions.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Taophycc/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Taophycc/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Taophycc/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Taophycc/DSA/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Taophycc/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Taophycc/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Taophycc/DSA/tree/master/1861-rotating-the-box) |
@@ -127,6 +128,7 @@ Code from my leetcode and hackerrank solutions.
 | [0981-time-based-key-value-store](https://github.com/Taophycc/DSA/tree/master/0981-time-based-key-value-store) |
 | [1169-invalid-transactions](https://github.com/Taophycc/DSA/tree/master/1169-invalid-transactions) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Taophycc/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Taophycc/DSA/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2540-minimum-common-value](https://github.com/Taophycc/DSA/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Taophycc/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Taophycc/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -222,6 +224,7 @@ Code from my leetcode and hackerrank solutions.
 | [1169-invalid-transactions](https://github.com/Taophycc/DSA/tree/master/1169-invalid-transactions) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Taophycc/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Taophycc/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Taophycc/DSA/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Taophycc/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Taophycc/DSA/tree/master/1768-merge-strings-alternately) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Taophycc/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
@@ -381,6 +384,7 @@ Code from my leetcode and hackerrank solutions.
 | [1169-invalid-transactions](https://github.com/Taophycc/DSA/tree/master/1169-invalid-transactions) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Taophycc/DSA/tree/master/1387-sort-integers-by-the-power-value) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Taophycc/DSA/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Taophycc/DSA/tree/master/2191-sort-the-jumbled-numbers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Taophycc/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Taophycc/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
