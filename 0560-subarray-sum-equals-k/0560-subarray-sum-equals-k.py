@@ -7,10 +7,10 @@ class Solution:
 
         for num in nums:
             curr_sum += num
-            p = curr_sum - k
+            target = curr_sum - k
             
-            if p in prefix_map:
-                cnt+= prefix_map[p]
+            if target in prefix_map:
+                cnt+= prefix_map[target]
 
             prefix_map[curr_sum] = prefix_map.get(curr_sum, 0) + 1
         return cnt
