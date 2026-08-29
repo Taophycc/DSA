@@ -1,19 +1,23 @@
 class Solution:
     def compress(self, chars: List[str]) -> int:
-        insert = 0
         n = len(chars)
+        write = 0
         i = 0
+
         while i < n:
-            group = 1
-            while (group + i) < n and chars[group+i] == chars[i]:
-                group += 1
-            chars[insert] = chars[i]
-            insert += 1
+            char = chars[i]
+            count = 0
 
-            if group > 1:
-                string = str(group)
-                chars[insert:insert + len(string)] = list(string)
-                insert += len(string)
-            i += group
+            while i < n and chars[i] == char:
+                count += 1
+                i += 1
 
-        return insert
+            chars[write] = char
+            write += 1
+
+            if count > 1:
+                for num in str(count):
+                    chars[write] = num
+                    write += 1
+        return write
+       
