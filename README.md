@@ -51,6 +51,7 @@ Code from my leetcode and hackerrank solutions.
 | [0853-car-fleet](https://github.com/Taophycc/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Taophycc/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Taophycc/DSA/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Taophycc/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Taophycc/DSA/tree/master/1020-number-of-enclaves) |
 | [1169-invalid-transactions](https://github.com/Taophycc/DSA/tree/master/1169-invalid-transactions) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Taophycc/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -98,6 +99,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Taophycc/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Taophycc/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Taophycc/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Taophycc/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/Taophycc/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/Taophycc/DSA/tree/master/2906-construct-product-matrix) |
@@ -247,6 +249,7 @@ Code from my leetcode and hackerrank solutions.
 | [0239-sliding-window-maximum](https://github.com/Taophycc/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Taophycc/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Taophycc/DSA/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/Taophycc/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Taophycc/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2090-k-radius-subarray-averages](https://github.com/Taophycc/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Taophycc/DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -408,6 +411,7 @@ Code from my leetcode and hackerrank solutions.
 | [0704-binary-search](https://github.com/Taophycc/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Taophycc/DSA/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Taophycc/DSA/tree/master/0981-time-based-key-value-store) |
+| [1004-max-consecutive-ones-iii](https://github.com/Taophycc/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Taophycc/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Taophycc/DSA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Taophycc/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
