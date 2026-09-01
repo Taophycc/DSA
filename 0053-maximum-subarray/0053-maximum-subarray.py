@@ -4,7 +4,11 @@ class Solution:
         res = nums[0]
 
         for i in range(1, len(nums)):
-            max_sub = max(max_sub + nums[i], nums[i])
+            if max_sub < 0:
+                max_sub = 0
+            max_sub += nums[i]
 
-            res = max(res, max_sub)
+            if max_sub > res:
+                res = max_sub
+
         return res
