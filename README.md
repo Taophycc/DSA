@@ -15,6 +15,7 @@ Code from my leetcode and hackerrank solutions.
 | [0046-permutations](https://github.com/Taophycc/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Taophycc/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Taophycc/DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Taophycc/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Taophycc/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Taophycc/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Taophycc/DSA/tree/master/0075-sort-colors) |
@@ -449,6 +450,7 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Taophycc/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Taophycc/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Taophycc/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Taophycc/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/0191-number-of-1-bits) |
@@ -461,6 +463,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Taophycc/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Taophycc/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Taophycc/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Taophycc/DSA/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Taophycc/DSA/tree/master/0435-non-overlapping-intervals) |
