@@ -264,6 +264,7 @@ Code from my leetcode and hackerrank solutions.
 | ------- |
 | [0048-rotate-image](https://github.com/Taophycc/DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Taophycc/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Taophycc/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Taophycc/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Taophycc/DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Taophycc/DSA/tree/master/0415-add-strings) |
@@ -467,6 +468,7 @@ Code from my leetcode and hackerrank solutions.
 | [0005-longest-palindromic-substring](https://github.com/Taophycc/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Taophycc/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Taophycc/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Taophycc/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Taophycc/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Taophycc/DSA/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Taophycc/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -632,6 +634,7 @@ Code from my leetcode and hackerrank solutions.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Taophycc/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Taophycc/DSA/tree/master/0509-fibonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/Taophycc/DSA/tree/master/1387-sort-integers-by-the-power-value) |
 ## Quicksort
