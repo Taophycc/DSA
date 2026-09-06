@@ -1,19 +1,14 @@
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
         n = len(cost)
-        cache = {}
+        if n <= 1:
+            return 0
 
-        def dp(n):
-            if n == 0:
-                return cost[0]
-            if n == 1:
-                return cost[1]
+        dp = [0]*(n+1)
+        dp[0] = cost[0]
+        dp[1] = cost[1]
 
-            if n in cache:
-                return cache[n]
-
-            curr_cost = cost[n] if n < len(cost) else 0
-
-            cache[n] = curr_cost + min(dp(n-1), dp(n-2))
-            return cache[n]
-        return dp(n)
+        for i in range(2, n+1):
+            curr_cost = cost[i] if i < n else 0
+            dp[i] = curr_cost + min(dp[i-1], dp[i-2])
+        return dp[n]
