@@ -24,8 +24,6 @@ class Solution:
                     return_path.append(stones[i])
             return_path.append(stones[-1])
 
-            return_path.sort()
-
             for i in range(1, len(return_path)):
                 if return_path[i] - return_path[i-1] > cap:
                     return False
