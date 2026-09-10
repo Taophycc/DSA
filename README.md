@@ -141,6 +141,7 @@ Code from my leetcode and hackerrank solutions.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Taophycc/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Taophycc/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3092-most-frequent-ids](https://github.com/Taophycc/DSA/tree/master/3092-most-frequent-ids) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Taophycc/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Taophycc/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Taophycc/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Taophycc/DSA/tree/master/3668-restore-finishing-order) |
@@ -243,6 +244,7 @@ Code from my leetcode and hackerrank solutions.
 | [2833-furthest-point-from-origin](https://github.com/Taophycc/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Taophycc/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Taophycc/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Taophycc/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Taophycc/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Taophycc/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Taophycc/DSA/tree/master/3713-longest-balanced-substring-i) |
