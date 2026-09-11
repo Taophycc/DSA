@@ -201,6 +201,7 @@ Code from my leetcode and hackerrank solutions.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Taophycc/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Taophycc/DSA/tree/master/1861-rotating-the-box) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Taophycc/DSA/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Taophycc/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/Taophycc/DSA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Taophycc/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Taophycc/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -241,6 +242,7 @@ Code from my leetcode and hackerrank solutions.
 | [1768-merge-strings-alternately](https://github.com/Taophycc/DSA/tree/master/1768-merge-strings-alternately) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Taophycc/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Taophycc/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Taophycc/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Taophycc/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Taophycc/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Taophycc/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -296,6 +298,7 @@ Code from my leetcode and hackerrank solutions.
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Taophycc/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Taophycc/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Taophycc/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Taophycc/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2498-frog-jump-ii](https://github.com/Taophycc/DSA/tree/master/2498-frog-jump-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Taophycc/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
