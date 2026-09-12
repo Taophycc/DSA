@@ -81,6 +81,7 @@ Code from my leetcode and hackerrank solutions.
 | [2540-minimum-common-value](https://github.com/Taophycc/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Taophycc/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Taophycc/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2831-find-the-longest-equal-subarray](https://github.com/Taophycc/DSA/tree/master/2831-find-the-longest-equal-subarray) |
 | [2906-construct-product-matrix](https://github.com/Taophycc/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Taophycc/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Taophycc/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -139,6 +140,7 @@ Code from my leetcode and hackerrank solutions.
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Taophycc/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Taophycc/DSA/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2540-minimum-common-value](https://github.com/Taophycc/DSA/tree/master/2540-minimum-common-value) |
+| [2831-find-the-longest-equal-subarray](https://github.com/Taophycc/DSA/tree/master/2831-find-the-longest-equal-subarray) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Taophycc/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Taophycc/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3092-most-frequent-ids](https://github.com/Taophycc/DSA/tree/master/3092-most-frequent-ids) |
@@ -263,6 +265,7 @@ Code from my leetcode and hackerrank solutions.
 | [1004-max-consecutive-ones-iii](https://github.com/Taophycc/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Taophycc/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2090-k-radius-subarray-averages](https://github.com/Taophycc/DSA/tree/master/2090-k-radius-subarray-averages) |
+| [2831-find-the-longest-equal-subarray](https://github.com/Taophycc/DSA/tree/master/2831-find-the-longest-equal-subarray) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Taophycc/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Union Find
 |  |
@@ -430,6 +433,7 @@ Code from my leetcode and hackerrank solutions.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Taophycc/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2498-frog-jump-ii](https://github.com/Taophycc/DSA/tree/master/2498-frog-jump-ii) |
 | [2540-minimum-common-value](https://github.com/Taophycc/DSA/tree/master/2540-minimum-common-value) |
+| [2831-find-the-longest-equal-subarray](https://github.com/Taophycc/DSA/tree/master/2831-find-the-longest-equal-subarray) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Taophycc/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Taophycc/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Bit Manipulation
