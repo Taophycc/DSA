@@ -244,6 +244,7 @@ Code from my leetcode and hackerrank solutions.
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Taophycc/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Taophycc/DSA/tree/master/1768-merge-strings-alternately) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Taophycc/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Taophycc/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Taophycc/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Taophycc/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Taophycc/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -319,6 +320,7 @@ Code from my leetcode and hackerrank solutions.
 | [0394-decode-string](https://github.com/Taophycc/DSA/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Taophycc/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Taophycc/DSA/tree/master/0853-car-fleet) |
+| [2390-removing-stars-from-a-string](https://github.com/Taophycc/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -519,6 +521,7 @@ Code from my leetcode and hackerrank solutions.
 | [0657-robot-return-to-origin](https://github.com/Taophycc/DSA/tree/master/0657-robot-return-to-origin) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Taophycc/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Taophycc/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Taophycc/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Taophycc/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Taophycc/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Taophycc/DSA/tree/master/3379-transformed-array) |
