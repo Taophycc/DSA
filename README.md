@@ -84,6 +84,7 @@ Code from my leetcode and hackerrank solutions.
 | [2831-find-the-longest-equal-subarray](https://github.com/Taophycc/DSA/tree/master/2831-find-the-longest-equal-subarray) |
 | [2906-construct-product-matrix](https://github.com/Taophycc/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Taophycc/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Taophycc/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Taophycc/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Taophycc/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Taophycc/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -110,6 +111,7 @@ Code from my leetcode and hackerrank solutions.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Taophycc/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/Taophycc/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/Taophycc/DSA/tree/master/2906-construct-product-matrix) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Taophycc/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Taophycc/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Taophycc/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3714-longest-balanced-substring-ii](https://github.com/Taophycc/DSA/tree/master/3714-longest-balanced-substring-ii) |
@@ -305,6 +307,7 @@ Code from my leetcode and hackerrank solutions.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Taophycc/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Taophycc/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2498-frog-jump-ii](https://github.com/Taophycc/DSA/tree/master/2498-frog-jump-ii) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Taophycc/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Taophycc/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
@@ -415,6 +418,7 @@ Code from my leetcode and hackerrank solutions.
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Taophycc/DSA/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Taophycc/DSA/tree/master/2191-sort-the-jumbled-numbers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Taophycc/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Taophycc/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Taophycc/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Taophycc/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Taophycc/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -685,4 +689,8 @@ Code from my leetcode and hackerrank solutions.
 |  |
 | ------- |
 | [3092-most-frequent-ids](https://github.com/Taophycc/DSA/tree/master/3092-most-frequent-ids) |
+## Polygons
+|  |
+| ------- |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Taophycc/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 <!---LeetCode Topics End-->
