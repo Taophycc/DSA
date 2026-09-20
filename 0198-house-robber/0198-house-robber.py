@@ -1,15 +1,15 @@
 class Solution:
     def rob(self, nums: list[int]) -> int:
-        cache = {}
-        def rob_house(index):
-            if index == 0: return nums[index]
-            if index < 0: return 0
+        n = len(nums)
+        if n == 0: return 0
+        if n == 1: return nums[0]
 
-            if index in cache: return cache[index]
+        dp = [0]*(n)
+        dp[0] = nums[0]
+        dp[1] = max(nums[0], nums[1])
 
-            pick = nums[index] + rob_house(index - 2)
-            not_pick = 0 + rob_house(index-1)
-            cache[index] = max(pick, not_pick)
-            return max(pick, not_pick)
-
-        return rob_house(len(nums)-1)
+        for i in range(2, n):
+            pick = nums[i] + dp[i-2]
+            not_pick = dp[i-1]
+            dp[i] = max(pick, not_pick)
+        return dp[-1]
