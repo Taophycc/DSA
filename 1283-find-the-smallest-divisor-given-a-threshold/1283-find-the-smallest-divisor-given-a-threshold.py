@@ -4,14 +4,14 @@ class Solution:
         res = 0
 
         while low <= high:
-            total_sum = 0
+            total_box = 0
             mid = (low+high) // 2
             k = mid
             
             for num in nums:
-                total_sum += math.ceil(num/k)
+                total_box += math.ceil(num/k)
             
-            if total_sum <= threshold:
+            if total_box <= threshold:
                 res = mid
                 high = mid -1
             else:
