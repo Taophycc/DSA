@@ -60,6 +60,7 @@ Code from my leetcode and hackerrank solutions.
 | [1020-number-of-enclaves](https://github.com/Taophycc/DSA/tree/master/1020-number-of-enclaves) |
 | [1169-invalid-transactions](https://github.com/Taophycc/DSA/tree/master/1169-invalid-transactions) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Taophycc/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Taophycc/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taophycc/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Taophycc/DSA/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Taophycc/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -440,6 +441,7 @@ Code from my leetcode and hackerrank solutions.
 | [0875-koko-eating-bananas](https://github.com/Taophycc/DSA/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Taophycc/DSA/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Taophycc/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Taophycc/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Taophycc/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Taophycc/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2498-frog-jump-ii](https://github.com/Taophycc/DSA/tree/master/2498-frog-jump-ii) |
