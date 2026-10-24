@@ -42,6 +42,7 @@ Code from my leetcode and hackerrank solutions.
 | [0403-frog-jump](https://github.com/Taophycc/DSA/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Taophycc/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Taophycc/DSA/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/Taophycc/DSA/tree/master/0529-minesweeper) |
 | [0539-minimum-time-difference](https://github.com/Taophycc/DSA/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/Taophycc/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Taophycc/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -169,6 +170,7 @@ Code from my leetcode and hackerrank solutions.
 | [0200-number-of-islands](https://github.com/Taophycc/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Taophycc/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Taophycc/DSA/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/Taophycc/DSA/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Taophycc/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Taophycc/DSA/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/Taophycc/DSA/tree/master/0827-making-a-large-island) |
@@ -354,6 +356,7 @@ Code from my leetcode and hackerrank solutions.
 | [0207-course-schedule](https://github.com/Taophycc/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Taophycc/DSA/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/Taophycc/DSA/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/Taophycc/DSA/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/Taophycc/DSA/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Taophycc/DSA/tree/master/0563-binary-tree-tilt) |
 | [0684-redundant-connection](https://github.com/Taophycc/DSA/tree/master/0684-redundant-connection) |
@@ -391,6 +394,7 @@ Code from my leetcode and hackerrank solutions.
 | [0210-course-schedule-ii](https://github.com/Taophycc/DSA/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Taophycc/DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Taophycc/DSA/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/Taophycc/DSA/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Taophycc/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Taophycc/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Taophycc/DSA/tree/master/0684-redundant-connection) |
