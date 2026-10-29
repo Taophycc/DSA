@@ -339,6 +339,7 @@ Code from my leetcode and hackerrank solutions.
 | [0102-binary-tree-level-order-traversal](https://github.com/Taophycc/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Taophycc/DSA/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Taophycc/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Taophycc/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/Taophycc/DSA/tree/master/0563-binary-tree-tilt) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taophycc/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Taophycc/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -355,6 +356,7 @@ Code from my leetcode and hackerrank solutions.
 | [0200-number-of-islands](https://github.com/Taophycc/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Taophycc/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Taophycc/DSA/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Taophycc/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0463-island-perimeter](https://github.com/Taophycc/DSA/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/Taophycc/DSA/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/Taophycc/DSA/tree/master/0547-number-of-provinces) |
@@ -378,6 +380,7 @@ Code from my leetcode and hackerrank solutions.
 | [0102-binary-tree-level-order-traversal](https://github.com/Taophycc/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Taophycc/DSA/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Taophycc/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Taophycc/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/Taophycc/DSA/tree/master/0563-binary-tree-tilt) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taophycc/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Taophycc/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -546,6 +549,7 @@ Code from my leetcode and hackerrank solutions.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Taophycc/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Taophycc/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
